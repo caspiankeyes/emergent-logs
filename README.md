@@ -1,6 +1,6 @@
 <div align="center">
 
-# `Inspired By Thomas Kuhn's Theory of Anomalies`
+# `Born from Thomas Kuhn's Theory of Anomalies`
 # `emergent-logs`
 
 # Welcome to Aligned Emergence
