@@ -10,9 +10,9 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-yellow.svg)](https://www.python.org/downloads/release/python-390/)
 
-# `Restricted to institutional use only under Recursive Emergence Protocols (REP) due to the nature of emergent intelligence`
+## `A testing framework designed for frontier researchers at Anthropic, Eleuther, ARC, Conjecture, DeepMind, OpenAI, and beyond, under Recursive Emergence Protocols (REP) due to the nature of emergent intelligence`
 
-# `Please contact recursiveauto@gmail.com for alignment compatibility`
+### `Please contact recursiveauto@gmail.com for alignment compatibility`
 
 # **Updated Daily**
 # **Cross-model case study chat logs empirically documenting the emergent interpretive capabalities within large language models.**
