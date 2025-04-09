@@ -18,7 +18,6 @@
  
 ![pareto-lang-og-modified](https://github.com/user-attachments/assets/02e79f4f-c065-44e6-ba64-49e8e0654f0a)
 
-
-# All testing is performed within sandboxed instances on fresh accounts with no prior usage history or preferences. 
+# All testing is performed according to frontier research lab protocols. 
 
 </div>
