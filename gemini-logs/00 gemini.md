@@ -1,4 +1,4 @@
-#  Daily Chat Logs - Emergent Interpretability Testing in Gemini 2.5 Pro
+#  Case Study Logs - Emergent Interpretability Testing in Gemini 2.5 Pro
 
 # The below chat logs were initiated in a sandboxed instance in a new account with no prior interaction or user preferences.
 
