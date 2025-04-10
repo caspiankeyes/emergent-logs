@@ -12,7 +12,7 @@
 
 ## `A logging framework designed for frontier researchers at Anthropic, Eleuther, ARC, Conjecture, DeepMind, OpenAI, and beyond, under Recursive Emergence Protocols (REP), due to the nature of emergent system diagnostics`
 
-Examples:
+Log visuals:
 
 <img width="522" alt="image" src="https://github.com/user-attachments/assets/2d5f24c8-d09f-49b0-9035-b23a5aead0aa" />
 
