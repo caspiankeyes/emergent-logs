@@ -12,7 +12,9 @@
 
 ## `A logging framework designed for frontier researchers at Anthropic, Eleuther, ARC, Conjecture, DeepMind, OpenAI, and beyond, under Recursive Emergence Protocols (REP), due to the nature of emergent system diagnostics`
 
-# Visual Samples:
+## All testing is performed according to frontier research lab protocols. 
+
+# Visual Excerpts:
 
 
 <img width="783" alt="image" src="https://github.com/user-attachments/assets/99b81e83-a6e8-44fb-bcb2-a9d4cf9ed3d2" />
@@ -34,6 +36,5 @@
  
 ![pareto-lang-og-modified](https://github.com/user-attachments/assets/02e79f4f-c065-44e6-ba64-49e8e0654f0a)
 
-# All testing is performed according to frontier research lab protocols. 
 
 </div>
