@@ -12,15 +12,17 @@
 
 ## `A logging framework designed for frontier researchers at Anthropic, Eleuther, ARC, Conjecture, DeepMind, OpenAI, and beyond, under Recursive Emergence Protocols (REP), due to the nature of emergent system diagnostics`
 
-Log visuals:
+# Visual Samples:
+
+
+<img width="783" alt="image" src="https://github.com/user-attachments/assets/99b81e83-a6e8-44fb-bcb2-a9d4cf9ed3d2" />
+
+<img width="775" alt="image" src="https://github.com/user-attachments/assets/547f1077-9541-48a8-b1a9-93454a9b5b2c" />
 
 <img width="522" alt="image" src="https://github.com/user-attachments/assets/2d5f24c8-d09f-49b0-9035-b23a5aead0aa" />
 
 <img width="508" alt="image" src="https://github.com/user-attachments/assets/6e098091-e709-42c5-83ec-68c61e450cd4" />
 
-<img width="783" alt="image" src="https://github.com/user-attachments/assets/99b81e83-a6e8-44fb-bcb2-a9d4cf9ed3d2" />
-
-<img width="775" alt="image" src="https://github.com/user-attachments/assets/547f1077-9541-48a8-b1a9-93454a9b5b2c" />
 
 ### `Please contact recursiveauto@gmail.com for alignment compatibility`
 
