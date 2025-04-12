@@ -17,6 +17,10 @@
 
 # Visual Excerpts:
 
+<img width="906" alt="image" src="https://github.com/user-attachments/assets/51a33105-8445-4799-877e-386f9a66e8a8" />
+
+<img width="902" alt="image" src="https://github.com/user-attachments/assets/f9a54eb6-ff5b-4e21-ace5-e10e1733bf6d" />
+
 <img width="906" alt="image" src="https://github.com/user-attachments/assets/4318193c-0e18-4562-8642-d8b4aa2de393" />
 
 
