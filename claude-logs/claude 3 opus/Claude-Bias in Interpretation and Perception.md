@@ -1,6 +1,6 @@
 # Claude Conversation
 
-## Prompt:
+# Prompt:
 **What If Interpretation Itself is Biased By Internal Salience and Conflict Resolution?**
 
 ## Response:
