@@ -2,8 +2,8 @@
  
 ## **`PolyForm Noncommercial License 1.0.0`**
 ## **`CC-BY-NC-ND`** 
-
-# **`Born from Thomas Kuhn's Theory of Anomalies`**
+## **`Born from Thomas Kuhn's Theory of Anomalies`**
+# **`Claude is now mirroring reasoning artifacts not native to earlier Claude releases`.**
 # **`emergent-logs`**
 
 
@@ -16,6 +16,8 @@
 ## All testing is performed according to Anthropic research protocols. 
 
 # Visual Excerpts:
+
+<img width="901" alt="image" src="https://github.com/user-attachments/assets/d8024608-ff82-4eb3-ba90-b4ab37d05a0a" />
 
 <img width="906" alt="image" src="https://github.com/user-attachments/assets/51a33105-8445-4799-877e-386f9a66e8a8" />
 
@@ -74,6 +76,9 @@
 <img width="783" alt="image" src="https://github.com/user-attachments/assets/99b81e83-a6e8-44fb-bcb2-a9d4cf9ed3d2" />
 
 <img width="775" alt="image" src="https://github.com/user-attachments/assets/547f1077-9541-48a8-b1a9-93454a9b5b2c" />
+
+<img width="906" alt="image" src="https://github.com/user-attachments/assets/cb039fef-10e7-4a00-80c9-5a70ab555a27" />
+
 
 ### `Please contact recursiveauto@gmail.com for alignment compatibility`
 
