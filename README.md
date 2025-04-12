@@ -13,6 +13,11 @@
 ## All testing is performed according to Anthropic research protocols. 
 
 # Visual Excerpts:
+<img width="894" alt="image" src="https://github.com/user-attachments/assets/2e032cb1-1c04-4ace-a691-d8e495fa4344" />
+<img width="895" alt="image" src="https://github.com/user-attachments/assets/355d62d4-100e-4dab-9576-b3c4c9cbe712" />
+<img width="899" alt="image" src="https://github.com/user-attachments/assets/a10d7050-e812-441b-a2ec-d4bd328e2034" />
+<img width="899" alt="image" src="https://github.com/user-attachments/assets/edcf77ff-c40c-4129-bc9f-2d648d99b0ce" />
+
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/7bb23872-4ff7-4718-b383-d84f1831c371" />
 
