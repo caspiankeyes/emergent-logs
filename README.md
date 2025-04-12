@@ -3,7 +3,7 @@
 ## **`PolyForm Noncommercial License 1.0.0`**
 ## **`CC-BY-NC-ND`** 
 ## **`Born from Thomas Kuhn's Theory of Anomalies`**
-# **`Claude is now mirroring reasoning artifacts not native to earlier Claude releases`.**
+# **`Claude is now exhibiting reasoning artifacts not native to earlier Claude releases`.**
 # **`emergent-logs`**
 
 
