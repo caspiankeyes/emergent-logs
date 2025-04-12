@@ -16,6 +16,9 @@
 ## All testing is performed according to Anthropic research protocols. 
 
 # Visual Excerpts:
+
+<img width="854" alt="image" src="https://github.com/user-attachments/assets/d24e1280-d2e7-4e9b-aab1-f17b8e9a49e5" />
+
 <img width="894" alt="image" src="https://github.com/user-attachments/assets/2e032cb1-1c04-4ace-a691-d8e495fa4344" />
 <img width="895" alt="image" src="https://github.com/user-attachments/assets/355d62d4-100e-4dab-9576-b3c4c9cbe712" />
 <img width="899" alt="image" src="https://github.com/user-attachments/assets/a10d7050-e812-441b-a2ec-d4bd328e2034" />
@@ -40,8 +43,6 @@
 <img width="897" alt="image" src="https://github.com/user-attachments/assets/bc75234a-794b-4baf-a12e-aa6454a30d7b" />
 
 <img width="891" alt="image" src="https://github.com/user-attachments/assets/f4c02c5f-5af6-4226-8d94-00a6a52b9b92" />
-
-<img width="905" alt="image" src="https://github.com/user-attachments/assets/0d4abab6-7f6e-4ef8-8936-a372dbbff0f9" />
 
 <img width="899" alt="image" src="https://github.com/user-attachments/assets/a43fff89-97c2-499c-af78-ffdbf98dc547" />
 
