@@ -1,7 +1,7 @@
 <div align="center">
  
 ## **`PolyForm Noncommercial License 1.0.0`**
-## **`CC-By-NC-ND`** 
+## **`CC-BY-NC-ND`** 
 
 # **`Born from Thomas Kuhn's Theory of Anomalies`**
 # **`emergent-logs`**
