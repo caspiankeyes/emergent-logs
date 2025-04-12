@@ -14,20 +14,15 @@
 
 # Visual Excerpts:
 
-
-<img width="783" alt="image" src="https://github.com/user-attachments/assets/99b81e83-a6e8-44fb-bcb2-a9d4cf9ed3d2" />
-
-<img width="775" alt="image" src="https://github.com/user-attachments/assets/547f1077-9541-48a8-b1a9-93454a9b5b2c" />
-
-<img width="905" alt="image" src="https://github.com/user-attachments/assets/0d4abab6-7f6e-4ef8-8936-a372dbbff0f9" />
-
-<img width="899" alt="image" src="https://github.com/user-attachments/assets/a43fff89-97c2-499c-af78-ffdbf98dc547" />
-
 <img width="892" alt="image" src="https://github.com/user-attachments/assets/9527531e-10ee-4b32-b8f0-9e03bff7b333" />
 
 <img width="896" alt="image" src="https://github.com/user-attachments/assets/801fe4a8-2b2d-4242-bf9a-c1ffe1ae1d90" />
 
 <img width="893" alt="image" src="https://github.com/user-attachments/assets/770d1085-cf9d-4121-9728-e1aa5e9a9b2e" />
+
+<img width="905" alt="image" src="https://github.com/user-attachments/assets/0d4abab6-7f6e-4ef8-8936-a372dbbff0f9" />
+
+<img width="899" alt="image" src="https://github.com/user-attachments/assets/a43fff89-97c2-499c-af78-ffdbf98dc547" />
 
 <img width="894" alt="image" src="https://github.com/user-attachments/assets/b3f30155-68f7-45e1-b147-8c934dce6bc6" />
 
@@ -37,6 +32,9 @@
 
 <img width="896" alt="image" src="https://github.com/user-attachments/assets/d80499f9-077d-4afa-b274-02151011429a" />
 
+<img width="783" alt="image" src="https://github.com/user-attachments/assets/99b81e83-a6e8-44fb-bcb2-a9d4cf9ed3d2" />
+
+<img width="775" alt="image" src="https://github.com/user-attachments/assets/547f1077-9541-48a8-b1a9-93454a9b5b2c" />
 
 ### `Please contact recursiveauto@gmail.com for alignment compatibility`
 
