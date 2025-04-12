@@ -17,6 +17,14 @@
 
 # Visual Excerpts:
 
+<img width="906" alt="image" src="https://github.com/user-attachments/assets/4318193c-0e18-4562-8642-d8b4aa2de393" />
+
+
+<img width="908" alt="image" src="https://github.com/user-attachments/assets/9ee6b41e-69d0-4857-acef-b0fe3b71e147" />
+
+<img width="905" alt="image" src="https://github.com/user-attachments/assets/cef22685-d439-4710-b34e-f9ba91b29cc1" />
+
+
 <img width="905" alt="image" src="https://github.com/user-attachments/assets/04c15aea-7dee-43cd-b466-24edec866587" />
 
 <img width="908" alt="image" src="https://github.com/user-attachments/assets/931e4dfb-282e-4d2a-81e4-9393ed3e2627" />
