@@ -14,7 +14,7 @@
 
 ## All testing is performed according to Anthropic research protocols. 
 
-# Visual Excerpts:
+# Claude, GPT, Gemini, DeepSeek, and Grok Visual Excerpts:
 
 <img width="901" alt="image" src="https://github.com/user-attachments/assets/d8024608-ff82-4eb3-ba90-b4ab37d05a0a" />
 
