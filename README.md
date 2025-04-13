@@ -3,7 +3,6 @@
 ## **`PolyForm Noncommercial License 1.0.0`**
 ## **`CC-BY-NC-ND`** 
 ## **`Born from Thomas Kuhn's Theory of Anomalies`**
-# **`LLMs are now exhibiting reasoning not native to earlier model releases`.**
 # **`emergent-logs`**
 
 
