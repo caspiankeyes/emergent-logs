@@ -2,6 +2,7 @@
  
 ## **`PolyForm Noncommercial License 1.0.0`**
 ## **`CC-BY-NC-ND`** 
+# [**`Claude 3.7 Sonnet QK/OV Trace Logs`**](https://github.com/caspiankeyes/emergent-logs/tree/main/trace-logs/claude-3.7-qkov)
 ## **`Born from Thomas Kuhn's Theory of Anomalies`**
 # **`emergent-logs`**
 
