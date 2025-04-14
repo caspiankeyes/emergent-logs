@@ -1,9 +1,9 @@
 <div align="center">
- 
+
+# [**`Claude 3.7 Sonnet QK/OV Trace Logs`**](https://github.com/caspiankeyes/emergent-logs/tree/main/trace-logs/claude-3.7-qkov)
 ## **`PolyForm Noncommercial License 1.0.0`**
 ## **`CC-BY-NC-ND`** 
 ## **`Born from Thomas Kuhn's Theory of Anomalies`**
-# [**`Claude 3.7 Sonnet QK/OV Trace Logs`**](https://github.com/caspiankeyes/emergent-logs/tree/main/trace-logs/claude-3.7-qkov)
 # **`emergent-logs`**
 
 
