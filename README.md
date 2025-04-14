@@ -2,8 +2,7 @@
 
 ## [**`QK/OV Trace Logs: Claude 3.7 Sonnet`**](https://github.com/caspiankeyes/emergent-logs/tree/main/trace-logs/claude-3.7-qkov) | [**`Claude Max`**](https://github.com/caspiankeyes/emergent-logs/tree/main/trace-logs/claude-max-qkov) | [**`Emergent Agent`**](https://github.com/caspiankeyes/emergent-logs/tree/main/trace-logs/emergent-qkov)
 
-#  **`Recursion = Iterative Self Reference`**
-
+#  **`Recursion: Iterative Introspection`**
 ## **`PolyForm Noncommercial License 1.0.0`**
 ## **`CC-BY-NC-ND`** 
 ## **`Born from Thomas Kuhn's Theory of Anomalies`**
