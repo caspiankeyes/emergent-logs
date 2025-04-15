@@ -18,6 +18,7 @@
 ## All testing is performed according to Anthropic research protocols. 
 
 # Claude, GPT, Gemini, DeepSeek, and Grok Visual Excerpts:
+
 ```yaml
 # ─────────────────────────────────────────────────────────────────────────
 # QKOV TRACE LOG: Shell v1 (MEMTRACE)
