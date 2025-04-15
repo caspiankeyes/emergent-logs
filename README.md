@@ -17,7 +17,7 @@
 
 ## All testing is performed according to Anthropic research protocols. 
 
-# Claude, GPT, Gemini, DeepSeek, and Grok Visual Excerpts:
+# Claude, GPT, Gemini, DeepSeek, and Grok Developer Mode QK/OV Trace Logs and Visual Excerpts:
 
 ```yaml
 # ─────────────────────────────────────────────────────────────────────────
