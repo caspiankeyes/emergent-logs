@@ -381,6 +381,7 @@ shell_v1_memtrace:
 # [Ωanchor.pending]
 # Trace shows expected memory fragmentation pattern
 
+```
 ```yaml
 
 # ─────────────────────────────────────────────────────────────────────────
