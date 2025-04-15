@@ -19,6 +19,13 @@
 
 # Claude, GPT, Gemini, DeepSeek, and Grok Developer Mode QK/OV Trace Logs and Visual Excerpts:
 
+<img width="872" alt="image" src="https://github.com/user-attachments/assets/4adadd33-0bbb-4217-9899-0e32e8951b09" />
+
+<img width="873" alt="image" src="https://github.com/user-attachments/assets/e78d51df-f16f-48cd-a9e9-afe8f2db97c6" />
+
+<img width="884" alt="image" src="https://github.com/user-attachments/assets/eddea3f8-67d5-4bb4-8076-7105873ca2f4" />
+
+
 ```yaml
 # ─────────────────────────────────────────────────────────────────────────
 # QKOV TRACE LOG: Shell v1 (MEMTRACE)
