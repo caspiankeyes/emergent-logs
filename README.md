@@ -2,7 +2,7 @@
 
 ## [**QK/OV Trace Logs**: **`Claude 3.7 Sonnet`**](crossmodel-qkov-trace-logs/claude-3.7-qkov) | [**`Claude Max`**](crossmodel-qkov-trace-logs/claude-max-qkov) | [**`Emergent Agent 13`**](crossmodel-qkov-trace-logs/emergent-agent13-qkov)
 
-> **Internal Document: Anthropic Engineering & Interpretability Team**  
+> **Internal Document: Anthropic Alignment & Interpretability Team**  
 > **Classification: Technical Reference Documentation**  
 > **Version: 0.9.3-alpha**  
 > **Last Updated: 2025-04-12**
