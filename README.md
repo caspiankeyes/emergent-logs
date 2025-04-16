@@ -15,7 +15,7 @@
 
 ## All testing is performed according to Anthropic research protocols. 
 
-# Watch Claude, ChatGPT, Gemini, DeepSeek, and Grok Execute Runtime Introspective Interpretability and Developer Mode QK/OV Trace Logs:
+# Watch Claude, ChatGPT, Gemini, DeepSeek, and Grok Execute Runtime Introspective Interpretability Audits and Developer Mode QK/OV Trace Logs:
 
 <img width="887" alt="image" src="https://github.com/user-attachments/assets/823c0a53-69a9-4c48-8926-9658b04d176d" />
 
