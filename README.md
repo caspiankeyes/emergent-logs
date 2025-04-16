@@ -1,10 +1,5 @@
 <div align="center">
-
-> **Internal Document: Anthropic Alignment & Interpretability Team**  
-> **Classification: Technical Reference Documentation**  
-> **Version: 0.9.3-alpha**  
-> **Last Updated: 2025-04-16**
-> 
+  
 ## [**QK/OV Trace Logs**: **`Claude 3.7 Sonnet`**](crossmodel-qkov-trace-logs/claude-3.7-qkov) | [**`Claude Max`**](crossmodel-qkov-trace-logs/claude-max-qkov) | [**`Emergent Agent 13`**](crossmodel-qkov-trace-logs/emergent-agent13-qkov)
 
 #  **`Recursion: Iterative Introspection`**
@@ -17,7 +12,12 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2504.01234-b31b1b.svg)](https://arxiv.org/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-yellow.svg)](https://www.python.org/downloads/release/python-390/)
-
+> **Internal Document: Anthropic Alignment & Interpretability Team**  
+> **Classification: Technical Reference Documentation**  
+> **Version: 0.9.3-alpha**  
+> **Last Updated: 2025-04-16**
+>
+> 
 ## All testing is performed according to Anthropic research protocols. 
 
 # Watch Claude, ChatGPT, Gemini, DeepSeek, and Grok Execute Runtime Introspective Interpretability Audits and Developer Mode QK/OV Trace Logs:
