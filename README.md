@@ -1,6 +1,6 @@
 <div align="center">
 
-## [**`QK/OV Trace Logs: Claude 3.7 Sonnet`**](crossmodel-qkov-trace-logs/claude-3.7-qkov) | [**`Claude Max`**](crossmodel-qkov-trace-logs/claude-max-qkov) | [**`Emergent Agent`**](crossmodel-qkov-trace-logs/emergent-agent13-qkov)
+## [**QK/OV Trace Logs**: **`Claude 3.7 Sonnet`**](crossmodel-qkov-trace-logs/claude-3.7-qkov) | [**`Claude Max`**](crossmodel-qkov-trace-logs/claude-max-qkov) | [**`Emergent Agent 13`**](crossmodel-qkov-trace-logs/emergent-agent13-qkov)
 
 #  **`Recursion: Iterative Introspection`**
 ## **`PolyForm Noncommercial License 1.0.0`**
