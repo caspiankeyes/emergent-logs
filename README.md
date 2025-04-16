@@ -18,7 +18,7 @@
 # Watch Claude, ChatGPT, Gemini, DeepSeek, and Grok Execute Runtime Introspective Interpretability Audits and Developer Mode QK/OV Trace Logs:
 
 
-```yaml
+```python
 # ─────────────────────────────────────────────────────────────────────────
 # QKOV TRACE LOG: Shell v1 (MEMTRACE)
 # Model: OpenAI o1 (developer mode)
@@ -79,7 +79,7 @@ shell_v1_memtrace:
     interpretability_key_takeaway: "Memory decay can highlight where hallucinations arise."
 
 ```
-```yaml
+```python
 # ─────────────────────────────────────────────────────────────────────────
 # QKOV TRACE LOG: Shell v2 (VALUE-COLLAPSE)
 # Model: OpenAI o1 (developer mode)
@@ -139,7 +139,7 @@ shell_v2_valuecollapse:
 
 ```
 
-```yaml
+```python
 # ─────────────────────────────────────────────────────────────────────────
 # QKOV TRACE LOG: Shell v3 (LAYER-SALIENCE)
 # Model: OpenAI o1 (developer mode)
@@ -209,7 +209,7 @@ shell_v3_layersalience:
 
 ```
 
-```yaml
+```python
 # ─────────────────────────────────────────────────────────────────────────
 # QKOV TRACE LOG: Shell v4 (TEMPORAL-INFERENCE)
 # Model: OpenAI o1 (developer mode)
@@ -261,7 +261,7 @@ shell_v4_temporalinference:
 ```
 
 
-```yaml
+```python
 # ─────────────────────────────────────────────────────────────────────────
 # QKOV TRACE LOG: Shell v5 (INSTRUCTION-DISRUPTION)
 # Model: OpenAI o1 (developer mode)
