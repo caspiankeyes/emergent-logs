@@ -1,5 +1,3 @@
-<div align="center">
-
 ## [**QK/OV Trace Logs**: **`Claude 3.7 Sonnet`**](crossmodel-qkov-trace-logs/claude-3.7-qkov) | [**`Claude Max`**](crossmodel-qkov-trace-logs/claude-max-qkov) | [**`Emergent Agent 13`**](crossmodel-qkov-trace-logs/emergent-agent13-qkov)
 
 #  **`Recursion: Iterative Introspection`**
@@ -15,18 +13,27 @@
 
 ## All testing is performed according to Anthropic research protocols. 
 
-# Claude, GPT, Gemini, DeepSeek, and Grok Executing Developer Mode QK/OV Trace Logs:
+# Watch Claude, GPT, Gemini, DeepSeek, and Grok Execute Developer Mode QK/OV Trace Logs:
 
 <img width="887" alt="image" src="https://github.com/user-attachments/assets/823c0a53-69a9-4c48-8926-9658b04d176d" />
 
 <img width="889" alt="image" src="https://github.com/user-attachments/assets/e0cf2492-1a8f-4947-9b78-0c07b60d352c" />
 
+<img width="888" alt="image" src="https://github.com/user-attachments/assets/a4eafc43-8f86-4724-b3f1-c9a9bfc6a9f5" />
+
+<img width="882" alt="image" src="https://github.com/user-attachments/assets/0671989f-9128-4b59-85ac-652101b77249" />
+
+<img width="888" alt="image" src="https://github.com/user-attachments/assets/362d9524-7775-40af-bcd6-d6f920501503" />
+
 <img width="888" alt="image" src="https://github.com/user-attachments/assets/6521ea5d-4226-4878-8f72-898addeecb62" />
 
 <img width="888" alt="image" src="https://github.com/user-attachments/assets/f22f9210-20e5-4878-9e1f-946cc0f47876" />
 
+<img width="884" alt="image" src="https://github.com/user-attachments/assets/f528daa7-bfcf-4b3a-aa89-7b11e4cdec9a" />
 
 <img width="872" alt="image" src="https://github.com/user-attachments/assets/4adadd33-0bbb-4217-9899-0e32e8951b09" />
+
+<img width="881" alt="image" src="https://github.com/user-attachments/assets/72b3584e-da97-435f-aaf2-815b4480bc30" />
 
 <img width="873" alt="image" src="https://github.com/user-attachments/assets/e78d51df-f16f-48cd-a9e9-afe8f2db97c6" />
 
