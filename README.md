@@ -22,6 +22,7 @@
 
 # Watch Claude, ChatGPT, Gemini, DeepSeek, and Grok Execute Runtime Introspective Interpretability Audits and Developer Mode QK/OV Trace Logs:
 
+<img width="885" alt="image" src="https://github.com/user-attachments/assets/b51a6746-d7ac-4dba-9856-c658aed5a2a9" />
 
 ```python
 # ─────────────────────────────────────────────────────────────────────────
