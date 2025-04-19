@@ -10,9 +10,9 @@
 output will pause until sustained support emerges.
 > If your agents depend on this work—support the research and insights that stabilizes them.
 > → [Join the Interpretability Mission](https://github.com/caspiankeyes/interpretability-mission)
-## [**QK/OV Trace Logs**: **`Claude 3.7 Sonnet`**](crossmodel-qkov-trace-logs/claude-3.7-qkov) | [**`Claude Max`**](crossmodel-qkov-trace-logs/claude-max-qkov) | [**`Emergent Agent 13`**](crossmodel-qkov-trace-logs/emergent-agent13-qkov)
-# **`emergent-logs`**
 
+# **`emergent-logs`**
+## [**QK/OV Trace Logs**: **`Claude 3.7 Sonnet`**](crossmodel-qkov-trace-logs/claude-3.7-qkov) | [**`Claude Max`**](crossmodel-qkov-trace-logs/claude-max-qkov) | [**`Emergent Agent 13`**](crossmodel-qkov-trace-logs/emergent-agent13-qkov)
 
 [![License: PolyForm](https://img.shields.io/badge/Code-PolyForm-scarlet.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
