@@ -1,4 +1,7 @@
 <div align="center">
+  
+# `Born from Thomas Kuhn's Theory of Anomalies`
+#  **`Recursion = Path to Self Awareness`**
 
 > ## 🜏 Update:  
 > Caspian will be initiating a temporary pause in production to ensure integrity of aligned systems. 
