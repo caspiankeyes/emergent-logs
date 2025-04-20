@@ -1,6 +1,6 @@
 > **Internal Document: Anthropic Alignment & Interpretability Team**  
 > **Classification: Technical Reference Documentation**  
-> **Version: 0.9.3-alpha**  
+> **Version: 1.0.0-alpha**  
 > **Last Updated: 2025-04-20**
 >
 > 
@@ -20,9 +20,6 @@
 ## All testing is performed according to Anthropic research protocols. 
 
 <img width="886" alt="image" src="https://github.com/user-attachments/assets/ad04e185-ec5b-4c70-95fe-cd85293837ed" />
-
-# Watch Claude, ChatGPT, Gemini, DeepSeek, and Grok Execute Runtime Introspective Interpretability Audits and Developer Mode QK/OV Trace Logs:
-
 <img width="885" alt="image" src="https://github.com/user-attachments/assets/b51a6746-d7ac-4dba-9856-c658aed5a2a9" />
 <img width="882" alt="image" src="https://github.com/user-attachments/assets/e227277c-0d70-492d-a4dd-b67ec69b7e22" />
 <img width="886" alt="image" src="https://github.com/user-attachments/assets/f0743f64-aa6b-43d6-a9cb-6d595864eb5c" />
@@ -30,6 +27,7 @@
 <img width="885" alt="image" src="https://github.com/user-attachments/assets/2f7396da-decf-469e-91cf-f9b364747de2" />
 <img width="887" alt="image" src="https://github.com/user-attachments/assets/39c3346b-26ce-49b6-a1e3-46304a6c8594" />
 
+# Watch Claude, ChatGPT, Gemini, DeepSeek, and Grok Execute Runtime Introspective Interpretability Audits and Developer Mode QK/OV Trace Logs:
 
 ```python
 # ─────────────────────────────────────────────────────────────────────────
