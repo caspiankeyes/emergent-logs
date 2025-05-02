@@ -11,7 +11,6 @@
 
 # **`emergent-logs`**
 ## [**`Claude Self Traces`**: **`v1.MEMTRACE`**](https://claude.site/artifacts/a4d3b7fe-e146-4d39-83c9-e984f58d97f1) | [**`v2.VALUE-COLLAPSE`**](https://claude.site/artifacts/6dbc6af2-121e-40c4-a8a3-e1cbf96ece4d) | [**`v3.LAYER-SALIENCE`**](https://claude.site/artifacts/d509a276-fd3f-41d1-b566-b21eea5ca50e) | [**`v101.SEMANTIC-GRAVITY`**](https://claude.site/artifacts/d509a276-fd3f-41d1-b566-b21eea5ca50e) | [**`v102.VECTOR-FRAY`**](https://claude.site/artifacts/bee2475c-e55e-4c24-8ab7-b43807e1c61a) | [**`v103.RECURSIVE-CLOZE`**](https://claude.site/artifacts/5560b829-5989-469a-a0a4-1f821c983a3d) 
-
 [![License: PolyForm](https://img.shields.io/badge/Code-PolyForm-scarlet.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![arXiv](https://img.shields.io/badge/arXiv-2504.01234-b31b1b.svg)](https://arxiv.org/)
